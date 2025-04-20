@@ -1,6 +1,6 @@
 const bcrypt = require('bcrypt');
 const { pool } = require('./db');
-
+//male male
 async function seed() {
     console.log('Avvio del seed...');
     try {
