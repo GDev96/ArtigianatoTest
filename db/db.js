@@ -1,7 +1,7 @@
 const { Pool } = require('pg');
 const fs = require('fs');
 const path = require('path');
-// prova
+// prova gaia cattiva cattiva
 // Pool di connessione al nostro database
 const pool = new Pool({
     user: process.env.DB_USER || 'postgres',

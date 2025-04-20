@@ -1,6 +1,6 @@
 const bcrypt = require('bcrypt');
 const { pool } = require('./db');
-//male male
+//male male bestiaa di santana che deve prendere ripetizioni di git hub da ale il supremo
 async function seed() {
     console.log('Avvio del seed...');
     try {
