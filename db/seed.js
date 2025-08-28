@@ -4,7 +4,7 @@ const { pool } = require('./db');
 async function seed() {
     console.log('Avvio del seed...');
     try {
-        // --- CREAZIONE RUOLI ---
+        // --- CREAZIONE RUOLI --- afsdcerfsdasdz
         console.log('Inserimento ruoli...');
         await pool.query(`
             INSERT INTO ruoli (ruolo_id, nome_ruolo) VALUES
